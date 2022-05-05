@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+input {
+    margin-right: 8px;
+    border: solid 2px black;
+}
+
+p {
+    margin: 10px 0;
+    font-weight: bold;
+    font-size: medium;
+}
+
+form {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
